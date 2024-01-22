@@ -1,6 +1,12 @@
 # tictactoe-js
 A simple web-based Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
+#### Contact with me
+Email: [kubedrn@gmail.com](mailto:kubedrn@gmail.com)<br>
+LinkedIn: [/ubed9](https://www.linkedin.com/in/ubed9)<br>
+
+
+
 ## Features
 - Two-player mode for local multiplayer
 - Responsive design for various screen sizes
