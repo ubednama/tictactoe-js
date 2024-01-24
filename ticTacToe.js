@@ -15,7 +15,7 @@ const quoteText = document.querySelector("#quote");
 const quoteAuthor = document.querySelector("#author");
 
 
-const getFacts = async () => {
+const getQuotes = async () => {
     console.log("getting data....")
     let response = await fetch(URL);
     // console.log(response)       //JSON format
@@ -25,6 +25,8 @@ const getFacts = async () => {
     quoteText.innerText = data[0].quote;
     quoteAuthor.innerText = data[0].author;
 };
+
+(getQuotes())();
 
 
 //playerX, playerO
@@ -48,7 +50,7 @@ const enableBoxes = () => {
         winMsg.classList.add("hide");
         newGameBtn.classList.add("hide");
     }
-    getFacts();
+    getQuotes();
 };
 
 const resetGame = () => {
