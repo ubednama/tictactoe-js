@@ -55,7 +55,6 @@ const resetGame = () => {
     turnO = true;
     enableBoxes();
     count=0;
-    getFacts();
 }
 
 newGameBtn.addEventListener("click", () => {
