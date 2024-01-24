@@ -14,6 +14,7 @@ Play game [here](https://65ae51a07077ff276e4d9826--deluxe-licorice-d069b8.netlif
 - Responsive design for various screen sizes
 
 ## To DO
+- ~~Add Random Quotes at bottom~~ (✅Done)
 - Add Computer vs Human mode
 
 ## Contributing
