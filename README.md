@@ -1,12 +1,10 @@
 <style>
-img
-{
+img{
     display:block; 
     float:none; 
     margin-left:auto;
     margin-right:auto;
-    width:60%;
-}
+    width:60%;}
 </style> 
 
 
