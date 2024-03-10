@@ -9,7 +9,14 @@ email: [kubedrn@gmail.com](mailto:kubedrn@gmail.com)<br>
 ## Demo
 Play game [here](https://65ae51a07077ff276e4d9826--deluxe-licorice-d069b8.netlify.app/)
 
+## Screenshots
+
+![Screenshot 2024-03-10 131658](https://github.com/ubednama/tictactoe-js/assets/61332446/08a06a65-3ba6-4b30-b58c-9e6109bab482){width: 49%}
+![Screenshot 2024-03-10 131710](https://github.com/ubednama/tictactoe-js/assets/61332446/38453222-d13e-4a60-8b4c-f2778eaa7289)
+
+
 ## Features
+
 - Two-player mode for local multiplayer
 - Responsive design for various screen sizes
 
