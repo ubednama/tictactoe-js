@@ -1,3 +1,15 @@
+<style>
+img
+{
+    display:block; 
+    float:none; 
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+</style> 
+
+
 # tictactoe-js
 A simple web-based Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
